@@ -15,5 +15,9 @@
         <module>spark</module>
     </modules>
 
+    <dependencies>
+
+    </dependencies>
+
 
 </project>

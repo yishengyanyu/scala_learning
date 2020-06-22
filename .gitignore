@@ -2,3 +2,7 @@
 /scala/target/
 /spark/target/
 /summer_framework/target/
+.idea
+scala_learning.iml
+spark.iml
+scala.iml
